@@ -1,0 +1,13 @@
+
+spider.py
+单线程爬虫
+
+使用方式 -s 参数设置 数据采集的开始时间
+        -e 数据采集的截止时间（不超过当前日期）
+        -d 数据下载后存储的位置  默认/home/alan/tempdata
+
+python spider.py -s 2017-12-12 -e 2017-12-14
+
+
+依赖：
+pip install selenium pyvirtualdisplay
