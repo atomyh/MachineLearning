@@ -1,0 +1,5 @@
+Scrapy框架爬虫，抓取腾讯招聘信息
+item 字段文件
+Tencent.py 爬虫文件
+pipelines.py 管道文件
+settings 设置相关文件
